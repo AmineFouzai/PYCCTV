@@ -30,7 +30,7 @@ Webcam over WebSocket using OpenCV and Tornado With Nigth Vison Mode(grayscale) 
 <h4>#this kind of way called a MJPEG Stream</h4>
 <h1>#Technologies:</h1>
 <h3>Redis:</h3>
-<img src="https://github.com/MedAmineFouzai/PYCCTV/blob/master/Captures/redis.jpg">
+<img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png">
 <h4>Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broke</h4>
 <br>
 <h3>OpenCV:</h3>
