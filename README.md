@@ -40,7 +40,7 @@ Webcam over WebSocket using OpenCV and Tornado With Nigth Vison Mode(grayscale) 
   <h1>#Resualt:</h1>
  <h3>Motion MJPEG</h3>
   <h4>In multimedia, Motion JPEG (M-JPEG or MJPEG) is a video compression format in which each video frame or interlaced field of a digital video sequence is compressed separately as a JPEG image</h4>
-  <img src="https://github.com/MedAmineFouzai/PYCCTV/blob/master/Captures/mjpeg.jpg">
+
   <br>
   <hr>
   <h2>#For Future Usage:</h2>
